@@ -1,0 +1,6 @@
+<items gfxroot ="gfx/items/" version ="1">
+    <passive id="1" name="Damage Potion" gfx="damage_potion_item.png" description="It smells like ashes and anger" quality="2" cache="damage" />
+    <active id ="2" name="Big Red Button" gfx="red_button.png" description="Ready for Battle" quality="4" maxcharges="5" chargetype="normal"/>
+    --normal, timed, and special all types of charges
+
+</items>
