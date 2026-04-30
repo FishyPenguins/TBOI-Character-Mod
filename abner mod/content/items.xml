@@ -3,5 +3,7 @@
     <active id ="2" name="Big Red Button" gfx="red_button.png" description="Ready for Battle" quality="4" maxcharges="5" chargetype="normal"/>
     <active id ="3" name="Recruit" gfx="recruit.png" description="Summon 1-5 friendly units to fight with you" quality="2" maxcharges="1" chargetype="normal"/>
     <passive id = "4" name="Blue Lover" gfx="blue_lover.png" description="Increases your damage based on blue familiars currently alive" quality="3" cache="damage"/>
+    <active id="5" name="Holy Outburst" description="Make a mess!" gfx="holy_outburst.png" tags="offensive" maxcharges="90" chargetype="timed" quality="4" />
+    <trinket id="1001" name="The Reversal" description="A chance to make friends" gfx="cupid_arrow.png" quality="2" />
 
 </items>

@@ -3,8 +3,27 @@
     <name>abner mod</name>
     <directory>abner mod</directory>
     <id>3663954198</id>
-    <description>creates new character
+    <description>1. New character named &quot;Abner&quot;
+
+2. Added new custom items
+* Big Red Button
+* Recruit!
+* Blue Lover
+
+3. Custom Trinket:
+* The Reversal
+
+4. Modified Vanilla items:
+* Skatole
+* Hivemind
+* Guppy's Head
+* Infestation
 </description>
-    <version>1.2</version>
+    <version>1.4</version>
     <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Player Characters"/>
 </metadata>
