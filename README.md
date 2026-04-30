@@ -14,6 +14,5 @@ This mod will consist of the following:
 - Items for cursed room
 - Items for treasure room
 
-3. A New Bomb Beggar
-- Item pool TBA
+
 
